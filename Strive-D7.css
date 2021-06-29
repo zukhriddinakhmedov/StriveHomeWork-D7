@@ -1,0 +1,21 @@
+html{
+    color: peru;
+    size: 50px;
+}
+header{
+    background-color: blanchedalmond;
+}
+table{
+    background-color:orange;
+}
+h1{
+    color: crimson;
+}
+address{
+    color: red;
+    border-image-width: 10px;
+    
+}
+img{
+    size: 50px;
+}
